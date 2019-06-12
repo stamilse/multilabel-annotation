@@ -1,2 +1,628 @@
-col1,col2,col3
-one,two,three
+S.No,sentence,length
+0,"a well-rounded tribute to a man whose achievements -- and complexities -- reached far beyond the end zone .
+",low
+1,"if you 're looking for a tale of brits behaving badly  watch snatch again .
+",medium
+2,"there is no pleasure in watching a child suffer .
+",medium
+3,"in this case zero .
+",low
+4,"there are cheesy backdrops  ridiculous action sequences  and many tired jokes about men in heels .
+",low
+5,"the character of zigzag is not sufficiently developed to support a film constructed around him .
+",medium
+6,another in a long line of ultra-violent war movies  ,low
+7,"this one is not quite what it could have been as a film  but the story and theme make up for it .
+",medium
+8,"it hates its characters .
+",low
+9,"the venezuelans say things like `` si  pretty much '' and `` por favor  go home '' when talking to americans .
+",medium
+10,it takes a really long  slow and dreary time to dope out what tuck,low
+11,"everlasting is about .
+",low
+12,"what we have is a character faced with the possibility that her life is meaningless  vapid and devoid of substance  in a movie that is definitely meaningless  vapid and devoid of substance .
+",medium
+13,"adam sandler !
+bursting through the constraints of its source  ",low
+14,"this is one adapted - from-television movie that actually looks as if it belongs on the big screen .
+",medium
+15,"a domestic melodrama with weak dialogue and biopic cliches .
+feels too formulaic and too familiar to produce the transgressive thrills of early underground work .
+",low
+16,spectacular in every sense of the word  ,low
+17,"even if you don ' t know an orc from a uruk-hai .
+",low
+18,"twenty years after its first release  e.t.
+",low
+19,"an exercise in cynicism every bit as ugly as the shabby digital photography and muddy sound .
+despite terrific special effects and funnier gags  ",low
+20,harry potter and the chamber of secrets finds a way to make j.k.,low
+21,"rowling 's marvelous series into a deadly bore .
+",low
+22,"meyjes focuses too much on max when he should be filling the screen with this tortured  dull artist and monster-in-the - making .
+",medium
+23,green ruins every single scene he 's in  and the film  ,low
+24,"while it 's not completely wreaked  is seriously compromised by that .
+despite a performance of sustained intelligence from stanford and another of subtle humour from bebe neuwirth  as an older woman who seduces oscar  the film founders on its lack of empathy for the social milieu - rich new york intelligentsia - and its off
+perhaps a better celebration of these unfairly dismissed heroes would be a film that is n't this painfully forced  false and fabricated .
+",high
+25,"did no one on the set have a sense of humor  or did they not have the nerve to speak up ?
+",medium
+26,"like shrek  spirit 's visual imagination reminds you of why animation is such a perfect medium for children  because of the way it allows the mind to enter and accept another world .
+",medium
+27,"a zippy 96 minutes of mediocre special effects  hoary dialogue  fluxing accents  and -- worst of all -- silly-looking morlocks .
+with this masterful  flawless film  ( wang ) emerges in the front ranks of china 's now numerous  world-renowned filmmakers .
+",medium
+28,"when not wallowing in its characters ' frustrations  the movie is busy contriving false  sitcom-worthy solutions to their problems .
+",medium
+29,"i 'll stay with the stage versions  however  which bite cleaner  and deeper .
+",medium
+30,"maybe thomas wolfe was right : you ca n't go home again .
+",medium
+31,"i 'm happy to have seen it -- not as an alternate version  but as the ultimate exercise in viewing deleted scenes .
+kapur fails to give his audience a single character worth rooting for ( or worth rooting against  for that matter ) .
+",high
+32,"ferrara 's best film in years .
+",low
+33,"mostly honest  this somber picture reveals itself slowly  intelligently  artfully .
+though her fans will assuredly have their funny bones tickled  ",medium
+34,"others will find their humor-seeking dollars best spent elsewhere .
+",medium
+35,the emperor 's club  ruthless in its own placid way  ,low
+36,"finds one of our most conservative and hidebound movie-making traditions and gives it new texture  new relevance  new reality .
+",medium
+37,attal 's hang-ups surrounding infidelity are so old-fashioned and  dare i say  ,medium
+38,outdated  ,low
+39,"it 's a wonder that he could n't have brought something fresher to the proceedings simply by accident .
+",medium
+40,"a movie that both thrills the eye and  in its over-the-top way  touches the heart .
+",low
+41,"even accepting this in the right frame of mind can only provide it with so much leniency .
+",medium
+42,"upper teens may get cynical .
+",low
+43,"everything that was right about blade is wrong in its sequel .
+",low
+44,though it flirts with bathos and pathos and the further oprahfication of the world as we know it  ,low
+45,"it still cuts all the way down to broken bone .
+",low
+46,it is not what you see  ,low
+47,"it is what you think you see .
+",medium
+48,"a lack of thesis makes maryam  in the end  play out with the intellectual and emotional impact of an after-school special .
+",low
+49,"while the performances are often engaging  this loose collection of largely improvised numbers would probably have worked better as a one-hour tv documentary .
+... while the humor aspects of ` jason x ' were far more entertaining than i had expected  everything else about the film tanks .
+too smart to ignore but a little too smugly superior to like  ",high
+50,"this could be a movie that ends up slapping its target audience in the face by shooting itself in the foot .
+",medium
+51,"with its jerky hand-held camera and documentary feel  bloody sunday is a sobering recount of a very bleak day in derry .
+",low
+52,"louiso lets the movie dawdle in classic disaffected-indie-film mode  and brother hoffman 's script stumbles over a late-inning twist that just does n't make sense .
+",high
+53,"just about everyone involved here seems to be coasting .
+",medium
+54,"while some will object to the idea of a vietnam picture with such a rah-rah  patriotic tone  soldiers ultimately achieves its main strategic objective : dramatizing the human cost of the conflict that came to define a generation .
+",high
+55,"worthy of the gong .
+",low
+56,"this is a movie full of grace and  ultimately  hope .
+",low
+57,a baffling subplot involving smuggling drugs inside danish cows falls flat  and if you 're going to alter the bard 's ending  ,high
+58,"you 'd better have a good alternative .
+",low
+59,"it 's just rather leaden and dull .
+",low
+60,most of the information has already appeared in one forum or another and  ,low
+61,no matter how broomfield dresses it up  ,low
+62,it tends to speculation  ,low
+63,"conspiracy theories or  at best  circumstantial evidence .
+",low
+64,"just a kiss wants desperately to come off as a fanciful film about the typical problems of average people .
+",low
+65,"oh  and booty call .
+",low
+66,"i do n't think most of the people who loved the 1989 paradiso will prefer this new version .
+",medium
+67,"falsehoods pile up  undermining the movie 's reality and stifling its creator 's comic voice .
+",medium
+68,though not for everyone  ,low
+69,"the guys is a somber trip worth taking .
+",low
+70,"does n't really add up to much .
+...",low
+71,"the good and different idea ( of middle-aged romance ) is not handled well and  except for the fine star performances  there is little else to recommend `` never again . ''
+",medium
+72,"the notion that bombing buildings is the funniest thing in the world goes entirely unexamined in this startlingly unfunny comedy .
+",low
+73,"do not see this film .
+",low
+74,"the catch is that they 're stuck with a script that prevents them from firing on all cylinders .
+",medium
+75,eddie murphy and owen,low
+76,wilson have a cute partnership in i,low
+77,spy  ,low
+78,"but the movie around them is so often nearly nothing that their charm does n't do a load of good .
+",medium
+79,"gone are the flamboyant mannerisms that are the trademark of several of his performances .
+",medium
+80,pascale bailly 's rom-com provides am√,low
+81,"©lie 's audrey tautou with another fabuleux destin -- i.e.
+cuba gooding jr.",medium
+82,valiantly mugs his way through snow dogs  ,low
+83,"but even his boisterous energy fails to spark this leaden comedy .
+",low
+84,"you have enough finely tuned acting to compensate for the movie 's failings .
+",medium
+85,"he fails .
+",low
+86,"solondz creates some effective moments of discomfort for character and viewer alike .
+",low
+87,good fun  ,low
+88,good action  ,low
+89,good acting  good dialogue  good pace  ,low
+90,"good cinematography .
+",low
+91,"good performances and a realistic  non-exploitive approach make paid in full worth seeing .
+",low
+92,"open-minded kids -- kids who read  kids who dream -- will be comforted by the way it deals with big issues like death and destiny .
+but mainstream audiences will find little of interest in this film  which is often preachy and poorly acted .
+",high
+93,it wraps up a classic mother\/daughter struggle in recycled paper with a shiny new bow and,low
+94,"while the audience can tell it 's not all new  at least it looks pretty .
+",medium
+95,"this is more a case of ` sacre bleu ! '
+",low
+96,"no one but a convict guilty of some truly heinous crime should have to sit through the master of disguise .
+",medium
+97,"jacquot 's rendering of puccini 's tale of devotion and double-cross is more than just a filmed opera .
+... built on the premise that middle-class arkansas consists of monster truck-loving good ol' boys and peroxide blond honeys whose worldly knowledge comes from tv reruns and supermarket tabloids .
+",high
+98,that 's muy loco  ,low
+99,"but no more ridiculous than most of the rest of `` dragonfly . ''
+a gripping drama .
+",low
+100,"his scenes are short and often unexpected .
+",low
+101,no matter how you slice it  ,low
+102,"mark wahlberg and thandie newton are not hepburn and grant  two cinematic icons with chemistry galore .
+",low
+103,the film is a hoot  and is just as good  if not better than much of what 's on saturday morning tv,medium
+104,"especially the pseudo-educational stuff we all ca n't stand .
+",low
+105,"very bad .
+",low
+106,"the trashy teen-sleaze equivalent of showgirls .
+",low
+107,but be warned  ,low
+108,"you too may feel time has decided to stand still .
+certain to be distasteful to children and adults alike  eight crazy nights is a total misfire .
+",high
+109,"( denis ' ) bare-bones narrative more closely resembles an outline for a '70s exploitation picture than the finished product .
+",low
+110,"humorous  artsy  and even cute  in an off-kilter  dark  vaguely disturbing way .
+",low
+111,"defies logic  the laws of physics and almost anyone 's willingness to believe in it .
+",low
+112,"is one of this year 's very best pictures .
+",low
+113,"fluffy and disposible .
+",low
+114,"the result is so tame that even slightly wised-up kids would quickly change the channel .
+",medium
+115,"the movie is essentially a series of fleetingly interesting actors ' moments .
+",low
+116,"more intellectually scary than dramatically involving .
+",low
+117,"it 's a terrible movie in every regard  and utterly painful to watch .
+",low
+118,"watching spirited away is like watching an eastern imagination explode .
+",medium
+119,"gangs  despite the gravity of its subject matter  is often as fun to watch as a good spaghetti western .
+",low
+120,"this is a nervy  risky film  and villeneuve has inspired croze to give herself over completely to the tormented persona of bibi .
+...",high
+121,"a good  if not entirely fresh  look at war .
+too ordinary to restore ( harmon ) to prominence  despite some creepy scenes that evoke childish night terrors  and a praiseworthy attempt to generate suspense rather than gross out the audience .
+",medium
+122,"performances are potent  and the women 's stories are ably intercut and involving .
+",medium
+123,"the movie 's accumulated force still feels like an ugly knot tightening in your stomach .
+",medium
+124,"it 's better than mid-range steven seagal  but not as sharp as jet li on rollerblades .
+",low
+125,"execrable .
+",low
+126,"cinematic poo .
+",low
+127,"the plot meanders from gripping to plodding and back .
+",low
+128,"a terrible adaptation of a play that only ever walked the delicate tightrope between farcical and loathsome .
+",low
+129,"pompous and garbled .
+",low
+130,"crush could be the worst film a man has made about women since valley of the dolls .
+",medium
+131,the best comedy concert movie i 've seen since cho 's previous concert comedy film  ,low
+132,"i 'm the one that i want  in 2000 .
+",low
+133,"just the sort of lazy tearjerker that gives movies about ordinary folk a bad name .
+",low
+134,"a brilliant gag at the expense of those who paid for it and those who pay to see it .
+",medium
+135,"although fairly involving as far as it goes  the film does n't end up having much that is fresh to say about growing up catholic or  really  anything .
+",high
+136,director jay russell stomps in hobnail boots over natalie babbitt 's gentle  ,low
+137,"endearing 1975 children 's novel .
+",low
+138,"` you 'll laugh for not quite and hour and a half  but come out feeling strangely unsatisfied .
+",medium
+139,"an uplifting  largely bogus story .
+",low
+140,"this fascinating look at israel in ferment feels as immediate as the latest news footage from gaza and  because of its heightened  well-shaped dramas  twice as powerful .
+",medium
+141,in addition to hoffman 's powerful acting clinic  ,low
+142,"this is that rare drama that offers a thoughtful and rewarding glimpse into the sort of heartache everyone has felt  or will feel someday .
+",high
+143,"a battle between bug-eye theatre and dead-eye matinee .
+in other words  ",low
+144,"it 's badder than bad .
+...",low
+145,"pays tribute to heroes the way julia roberts hands out awards -- with phony humility barely camouflaging grotesque narcissism .
+and adults will at least have a dream image of the west to savor whenever the film 's lamer instincts are in the saddle .
+",high
+146,"count on his movie to work at the back of your neck long after you leave the theater .
+",medium
+147,"was that movie nothing more than a tepid exercise in trotting out a formula that worked five years ago but has since lost its fizz ?
+...",medium
+148,"a boring parade of talking heads and technical gibberish that will do little to advance the linux cause .
+",medium
+149,"demme gets a lot of flavor and spice into his charade remake  but he ca n't disguise that he 's spiffing up leftovers that are n't so substantial or fresh .
+",high
+150,"the script is too mainstream and the psychology too textbook to intrigue .
+",low
+151,"jacobi  the most fluent of actors  is given relatively dry material from nijinsky 's writings to perform  and the visuals  even erotically frank ones  become dullingly repetitive .
+...",medium
+152,"the film 's considered approach to its subject matter is too calm and thoughtful for agitprop  and the thinness of its characterizations makes it a failure as straight drama . '
+true to its animatronic roots : ... as stiff  ponderous and charmless as a mechanical apparatus ... ` the country bears ' should never have been brought out of hibernation .
+",high
+153,"a minor-league soccer remake of the longest yard .
+",low
+154,"( breheny 's ) lensing of the new zealand and cook island locations captures both the beauty of the land and the people .
+",low
+155,"blue crush is as predictable as the tides .
+",low
+156,"the pleasure of read my lips is like seeing a series of perfect black pearls clicking together to form a string .
+",medium
+157,"a dreary movie .
+",low
+158,godard 's ode to tackling life 's wonderment is a rambling and incoherent manifesto about the vagueness of topical excess ...,medium
+159,"in praise of love remains a ponderous and pretentious endeavor that 's unfocused and tediously exasperating .
+",medium
+160,"baran is shockingly devoid of your typical majid majidi shoe-loving  crippled children .
+",low
+161,"a very charming and funny movie .
+",low
+162,"attal pushes too hard to make this a comedy or serious drama .
+",low
+163,"ritchie 's film is easier to swallow than wertmuller 's polemical allegory  but it 's self-defeatingly decorous .
+",medium
+164,"a dazzling dream of a documentary .
+",low
+165,"best described as i know what you did last winter .
+",medium
+166,there 's enough melodrama in this magnolia primavera to make pta proud yet,low
+167,"director muccino 's characters are less worthy of puccini than they are of daytime television .
+",low
+168,"coughs and sputters on its own postmodern conceit .
+",low
+169,"just the labour involved in creating the layered richness of the imagery in this chiaroscuro of madness and light is astonishing .
+",medium
+170,"after that it becomes long and tedious like a classroom play in a college history course .
+",low
+171,"is still a cinematic touchstone .
+",low
+172,"eight legged freaks ?
+",low
+173,"a lot of fun  with an undeniable energy sparked by two actresses in their 50s working at the peak of their powers .
+",low
+174,"a high-minded snoozer .
+moving and vibrant .
+",low
+175,"an intoxicating experience .
+",low
+176,"it 's a lot to ask people to sit still for two hours and change watching such a character  especially when rendered in as flat and impassive a manner as phoenix 's .
+",medium
+177,"i think it was plato who said  ' i think  therefore i know better than to rush to the theatre for this one . '
+",high
+178,even if you 're an elvis person  ,low
+179,"you wo n't find anything to get excited about on this dvd .
+",medium
+180,"it 's no accident that the accidental spy is a solid action pic that returns the martial arts master to top form .
+",medium
+181,"an example of quiet  confident craftsmanship that tells a sweet  charming tale of intergalactic friendship .
+",low
+182,"what 's infuriating about full frontal is that it 's too close to real life to make sense .
+instead of contriving a climactic hero 's death for the beloved-major - character-who-shall - remain",high
+183,"-nameless  why not invite some genuine spontaneity into the film by having the evil aliens ' laser guns actually hit something for once ?
+",medium
+184,"schnieder bounces around with limp wrists  wearing tight tummy tops and hip huggers  twirling his hair on his finger and assuming that 's enough to sustain laughs ...
+...",high
+185,"a fairly disposable yet still entertaining b picture .
+",low
+186,"the locale ... remains far more interesting than the story at hand .
+",low
+187,"( ramsay ) visually transforms the dreary expanse of dead-end distaste the characters inhabit into a poem of art  music and metaphor .
+",low
+188,"this ludicrous film is predictable at every turn .
+",low
+189,"the cold turkey would 've been a far better title .
+",low
+190,"overall  interesting as a documentary -- but not very imaxy .
+",low
+191,"sensitively examines general issues of race and justice among the poor  and specifically raises serious questions about the death penalty and asks what good the execution of a mentally challenged woman could possibly do .
+",high
+192,"the redeeming feature of chan 's films has always been the action  but the stunts in the tuxedo seem tired and  what 's worse  routine .
+",medium
+193,"it made me want to wrench my eyes out of my head and toss them at the screen .
+",medium
+194,"serving sara is little more than a mall movie designed to kill time .
+",medium
+195,"steven spielberg brings us another masterpiece
+the most ingenious film comedy since being john malkovich .
+",low
+196,"it gets old quickly .
+",low
+197,there 's some good material in their story about a retail clerk wanting more out of life  but,low
+198,"the movie too often spins its wheels with familiar situations and repetitive scenes .
+",low
+199,"ill-considered  unholy hokum .
+",low
+200,"one of those staggeringly well-produced  joylessly extravagant pictures that keep whooshing you from one visual marvel to the next  hastily  emptily .
+",medium
+201,"the film 's only missteps come from the script 's insistence on providing deep emotional motivation for each and every one of abagnale 's antics .
+",low
+202,"almost nothing else -- raunchy and graphic as it may be in presentation -- is one-sided  outwardly sexist or mean-spirited .
+",medium
+203,"in addition to gluing you to the edge of your seat  changing lanes is also a film of freshness  imagination and insight .
+... is there a deeper  more direct connection between these women  one that spans time and reveals meaning ?
+",high
+204,"a classy  sprightly spin on film .
+",low
+205,( kirshner wins  ,low
+206,"but it 's close . )
+a banal spiritual quest .
+",low
+207,"it 's a charming and often affecting journey .
+",low
+208,"children of the century  though well dressed and well made  ultimately falls prey to the contradiction that afflicts so many movies about writers .
+",medium
+209,it 's all arty and jazzy and people sit and stare and turn away from one another instead of talking,medium
+210,and it 's all about the silences,low
+211,"and if you 're into that  have at it .
+",low
+212,"high crimes knows the mistakes that bad movies make and is determined not to make them  and maybe that is nobility of a sort .
+",high
+213,in addition to sporting one of the worst titles in recent cinematic history  ,low
+214,ballistic,low
+215,": ecks vs. sever also features terrible  banal dialogue ; convenient  hole-ridden plotting ; superficial characters and a rather dull  unimaginative car chase .
+",low
+216,"the emotion is impressively true for being so hot-blooded  and both leads are up to the task .
+",medium
+217,we ',low
+218,ve liked klein 's other work but rollerball,low
+219,"left us cold .
+",low
+220,"like a can of 2-day old coke .
+",low
+221,"highly uneven and inconsistent ... margarita happy hour kinda resembles the el cheapo margaritas served within .
+",medium
+222,"a retread of material already thoroughly plumbed by martin scorsese .
+",low
+223,"the film is a masterpiece of nuance and characterization  marred only by an inexplicable  utterly distracting blunder at the very end .
+",medium
+224,unpretentious  ,low
+225,charming  ,low
+226,quirky  ,low
+227,"original
+as steamy as last week 's pork dumplings .
+",low
+228,"creepy  authentic and dark .
+",low
+229,"very well made  but does n't generate a lot of tension .
+",medium
+230,"i 'm just too bored to care .
+... plenty of warmth to go around  with music and laughter and the love of family .
+",low
+231,"it 's one thing to read about or rail against the ongoing - and unprecedented - construction project going on over our heads .
+`` secretary '' is owned by its costars  spader and gyllenhaal .
+",medium
+232,"the only fun part of the movie is playing the obvious game .
+",low
+233,"the film  like jimmy 's routines  could use a few good laughs .
+",low
+234,"cube 's charisma and chemistry compensate for corniness and cliche .
+",low
+235,"i sympathize with the plight of these families  but the movie does n't do a very good job conveying the issue at hand .
+",medium
+236,"stirs potentially enticing ingredients into an uneasy blend of ghost and close encounters of the third kind .
+",low
+237,"a gem of a romantic crime comedy that turns out to be clever  amusing and unpredictable .
+",low
+238,"it 's like an all-star salute to disney 's cheesy commercialism .
+",low
+239,"the old-world - meets-new mesh is incarnated in the movie 's soundtrack  a joyful effusion of disco bollywood that  by the end of monsoon wedding  sent my spirit soaring out of the theater .
+",medium
+240,"it all looks and plays like a $ 40 million version of a game you 're more likely to enjoy on a computer .
+",medium
+241,"an artful yet depressing film that makes a melodramatic mountain out of the molehill of a missing bike .
+",low
+242,"i 'm giving it thumbs down due to the endlessly repetitive scenes of embarrassment .
+",low
+243,"the slam-bang superheroics are kinetic enough to engross even the most antsy youngsters .
+",low
+244,"mostly the film is just hectic and homiletic : two parts exhausting men in black mayhem to one part family values .
+",low
+245,"the wanton slipperiness of \* corpus and its amiable jerking and reshaping of physical time and space would make it a great piece to watch with kids and use to introduce video as art .
+",medium
+246,"you emerge dazed  confused as to whether you 've seen pornography or documentary .
+",medium
+247,"it 's just merely very bad .
+",low
+248,"( swimfan ) falls victim to sloppy plotting  an insultingly unbelievable final act and a villainess who is too crazy to be interesting .
+",medium
+249,"what ` blade runner ' would 've looked like as a low-budget series on a uhf channel .
+",low
+250,"an exit sign  that is .
+",low
+251,"despite the holes in the story and the somewhat predictable plot  moments of the movie caused me to jump in my chair ...
+snoots will no doubt rally to its cause  trotting out threadbare standbys like ` masterpiece ' and ` triumph ' and all that malarkey  but rarely does an established filmmaker so ardently waste viewers ' time with a gobbler like this .
+at its best when the guarded  resentful betty and the manipulative yet needy margot are front and center .
+",high
+252,"offers absolutely nothing i had n't already seen .
+",medium
+253,"a mawkish self-parody that plays like some weird masterpiece theater sketch with neither a point of view nor a compelling reason for being .
+",medium
+254,"grenier is terrific  bringing an unforced  rapid-fire delivery to toback 's heidegger - and nietzsche-referencing dialogue .
+",low
+255,"90 punitive minutes of eardrum-dicing gunplay  screeching-metal smashups  and flaccid odd-couple sniping .
+",low
+256,"new yorkers always seem to find the oddest places to dwell ...
+",medium
+257,"it would be disingenuous to call reno a great film  but you can say that about most of the flicks moving in and out of the multiplex .
+",high
+258,while american adobo has its heart ( and its palate ) in the right place  ,low
+259,"its brain is a little scattered -- ditsy  even .
+",low
+260,"if you 've ever entertained the notion of doing what the title of this film implies  what sex with strangers actually shows may put you off the idea forever .
+",high
+261,"this tuxedo ... should have been sent back to the tailor for some major alterations .
+",medium
+262,"the problem is that it is one that allows him to churn out one mediocre movie after another .
+",medium
+263,"missteps take what was otherwise a fascinating  riveting story and send it down the path of the mundane .
+",medium
+264,"the film is way too full of itself ; it 's stuffy and pretentious in a give-me-an-oscar kind of way .
+",medium
+265,call me a cynic  ,low
+266,"but there 's something awfully deadly about any movie with a life-affirming message .
+",low
+267,"aggravating and tedious .
+",low
+268,"if religious films are n't your bailiwick  stay away .
+",low
+269,"amazingly lame .
+",low
+270,"an amalgam of the fugitive  blade runner  and total recall  only without much energy or tension .
+",low
+271,"a straight-ahead thriller that never rises above superficiality .
+",low
+272,"devolves into the derivative  leaning on badly-rendered cgi effects .
+",low
+273,"a shame that stealing harvard is too busy getting in its own way to be anything but frustrating  boring  and forgettable .
+",medium
+274,"austin powers in goldmember is a cinematic car wreck  a catastrophic collision of tastelessness and gall that nevertheless will leave fans clamoring for another ride .
+",medium
+275,the images lack contrast  ,low
+276,"are murky and are frequently too dark to be decipherable .
+",medium
+277,"some like it hot on the hardwood proves once again that a man in drag is not in and of himself funny .
+",low
+278,"it is n't that stealing harvard is a horrible movie -- if only it were that grand a failure !
+a winning comedy with its wry observations about long-lived friendships and the ways in which we all lose track of ourselves by trying to please others .
+",high
+279,"would 've been nice if the screenwriters had trusted audiences to understand a complex story  and left off the film 's predictable denouement .
+",high
+280,"interview with the assassin is structured less as a documentary and more as a found relic  and as such the film has a difficult time shaking its blair witch project real-time roots .
+",high
+281,"light the candles  bring out the cake and do n't fret about the calories because there 's precious little substance in birthday girl -- it 's simply  and surprisingly  a nice  light treat .
+",high
+282,in his role of observer of the scene  ,low
+283,"lawrence sounds whiny and defensive  as if his life-altering experiences made him bitter and less mature .
+",medium
+284,"a simple  but gritty and well-acted ensemble drama that encompasses a potent metaphor for a country still dealing with its fascist past .
+",medium
+285,"supposedly authentic account of a historical event that 's far too tragic to merit such superficial treatment .
+",low
+286,"it 's a lovely  sad dance highlighted by kwan 's unique directing style .
+",low
+287,but if the essence of magic is its make-believe promise of life that soars above the material realm  ,low
+288,"this is the opposite of a truly magical movie .
+",low
+289,the most horrific movie experience,low
+290,"i 've had since `` ca n't stop the music . ''
+a wildly entertaining scan of evans ' career .
+",medium
+291,"it 's not too much of anything .
+",low
+292,"a much better documentary -- more revealing  more emotional and more surprising -- than its pedestrian english title would have you believe .
+",medium
+293,"disney again ransacks its archives for a quick-buck sequel .
+",low
+294,"squandering his opportunity to make absurdist observations  burns gets caught up in the rush of slapstick thoroughfare .
+",medium
+295,"the overall result is an intelligent  realistic portrayal of testing boundaries .
+",low
+296,"in its best moments  resembles a bad high school production of grease  without benefit of song .
+makes 98 minutes feel like three hours .
+",medium
+297,"it has the right approach and the right opening premise  but it lacks the zest and it goes for a plot twist instead of trusting the material .
+",medium
+298,while you have to admit it 's semi-amusing to watch robert deniro belt out `` when you 're a jet  ,high
+299,you 're a jet all the way  '',low
+300,"it 's equally distasteful to watch him sing the lyrics to `` tonight . ''
+",medium
+301,"you can tell almost immediately that welcome to collinwood is n't going to jell .
+",high
+302,"here the love scenes all end in someone screaming .
+",low
+303,"apparently  romantic comedy with a fresh point of view just does n't figure in the present hollywood program .
+",low
+304,it is the sheer  selfish  wound-licking  ,low
+305,"bar-scrapping doggedness of leon 's struggle to face and transmute his demons that makes the movie a spirited and touching occasion  despite its patchy construction .
+",medium
+306,"finally coming down off of miramax 's deep shelves after a couple of aborted attempts  waking up in reno makes a strong case for letting sleeping dogs lie .
+",high
+307,"depressingly thin and exhaustingly contrived .
+",low
+308,"chomp chomp !
+",low
+309,"if i have to choose between gorgeous animation and a lame story ( like  say  treasure planet ) or so-so animation and an exciting  clever story with a batch of appealing characters  i 'll take the latter every time .
+",high
+310,"really dumb but occasionally really funny .
+",low
+311,"1 drips with style and  at times  blood .
+",low
+312,"it provides the grand  intelligent entertainment of a superior cast playing smart people amid a compelling plot .
+",low
+313,"greg kinnear gives a mesmerizing performance as a full-fledged sex addict who is in complete denial about his obsessive behavior .
+despite these annoyances  the capable clayburgh and tambor really do a great job of anchoring the characters in the emotional realities of middle age .
+",medium
+314,"the film is so packed with subplots involving the various silbersteins that it feels more like the pilot episode of a tv series than a feature film .
+",medium
+315,"indifferently implausible popcorn programmer of a movie .
+",low
+316,"it just does n't have anything really interesting to say .
+",medium
+317,"nor is it a romantic comedy .
+tries to work in the same vein as the brilliance of animal house but instead comes closer to the failure of the third revenge of the nerds sequel .
+stands as one of the year 's most intriguing movie experiences  letting its imagery speak for it while it forces you to ponder anew what a movie can be .
+",high
+318,more than their unique residences  ,low
+319,"home movie is about the people who live in them  who have carved their own comfortable niche in the world and have been kind enough to share it .
+",high
+320,"wells ' ` the time machine . '
+",low
+321,"but what is missing from it all is a moral .
+",medium
+322,"this director 's cut -- which adds 51 minutes -- takes a great film and turns it into a mundane soap opera .
+tries to add some spice to its quirky sentiments but the taste is all too familiar .
+",high
+323,"i got a headache watching this meaningless downer .
+",low
+324,overall  ,low
+325,"it 's a wacky and inspired little film that works effortlessly at delivering genuine  acerbic laughs .
+",medium
+326,"i wish windtalkers had had more faith in the dramatic potential of this true story .
+",medium
